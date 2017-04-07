@@ -1,5 +1,5 @@
 Iron Sword
-Thin Sword
+Slim Sword
 Steel Sword
 Silver Sword
 Iron Blade
@@ -7,47 +7,47 @@ Steel Blade
 Silver Blade
 Poison Sword
 Rapier
-Mani Katti (DUMMY)
-Hero Sword
+(Mani Katti)
+Brave Sword
 Shamshir
-Killer Sword
-Armour Killer
-Dragon Killer
-Light Sword
+Killing Edge
+Armorslayer
+Wyrmslayer
+Light Brand
 Rune Sword
-Lancebuster
-Long Sword
-Iron Spear
-Thin Spear
-Steel Spear
-Silver Spear
-Poison Spear
-Hero Spear
+Lancereaver
+Zambato
+Iron Lance
+Slim Lance
+Steel Lance
+Silver Lance
+Poison Lance
+Brave Lance
 Killer Lance
-Horse Killer
+Horseslayer
 Javelin
-Slender Spear
-Axebuster
+Spear
+Axereaver
 Iron Axe
 Steel Axe
 Silver Axe
 Poison Axe
-Hero Axe
+Brave Axe
 Killer Axe
 Halberd
 Hammer
 Devil Axe
 Hand Axe
 Tomahawk
-Swordbuster
-Sword Killer
-Trainee Axe
+Swordreaver
+Swordbreaker
+Hatchet
 Iron Bow
 Steel Bow
 Silver Bow
 Poison Bow
 Killer Bow
-Hero Bow
+Brave Bow
 Short Bow
 Longbow
 Ballista
@@ -56,34 +56,34 @@ Killer Ballista
 Fire
 Thunder
 Elfire
-Thunderstorm
+Bolting
 Fimbulvetr
-Forblaze (DUMMY)
+(Forblaze)
 Excalibur
 Lightning
 Shine
 Divine
 Purge
 Aura
-Luce (DUMMY)
+(Luce)
 Flux
 Luna
 Nosferatu
 Eclipse
 Fenrir
 Gleipnir
-Live
-Relive
+Heal
+Mend
 Recover
-Libro
-Reserve
+Physic
+Fortify
 Restore
 Silence
 Sleep
 Berserk
 Warp
 Rescue
-Torch
+Torch Staff
 Hammerne
 Unlock
 Barrier
@@ -91,7 +91,7 @@ Dragon Axe
 Angelic Robe
 Energy Ring
 Secret Book
-Speedwings
+Speed Wing
 Goddess Icon
 Dragon Shield
 Talisman
@@ -104,7 +104,7 @@ Elysian Whip
 Guiding Ring
 Chest Key
 Door Key
-Thief Key
+Lockpick
 Vulnerary
 Elixir
 Pure Water
@@ -119,26 +119,26 @@ Red Gem
 Gold
 Reginleif
 Chest Key (5)
-Mine (DUMMY)
-Light Rune (DUMMY)
-Hopron Shield
-Filla's Might (DUMMY)
-Ninis's Grace (DUMMY)
-Thor's Ire (DUMMY)
-Set's Litany (DUMMY)
+(Mine)
+(Light Rune)
+Hoplon Shield
+(Filla's Might)
+(Ninis's Grace)
+(Thor's Ire)
+(Set's Litany)
 Shadow Killer
 Bright Lance
 Fiend Cleaver
 Beacon Bow
-Sieglind
+Sieglinde
 Battle Axe
 Ivaldi
 Master Proof
 Metis's Tome
-Heaven Seal (DUMMY)
+(Heaven Seal)
 Sharp Claw
 Latona
-Dragon Lance
+Dragon Spear
 Vidofnir
 Naglfal
 Decaying Breath
@@ -146,7 +146,7 @@ Audomra
 Siegmund
 Garm
 Nidhogg
-Heavy Lance
+Heavy Spear
 Short Spear
 Ocean Seal
 Moon Bracelet
@@ -158,7 +158,7 @@ Sun Bracelet
 100G
 3000G
 5000G
-Wind Sword
+Wind Edge
 Vulnerary
 Vulnerary (green note)
 Vulnerary (red note)
@@ -167,7 +167,7 @@ Nightmare
 Demon Stone
 Demon Light
 Ravager
-Holy Dragon Stone
+Divine Stone
 Demon Surge
 Shadowshot
 Rotten Claw

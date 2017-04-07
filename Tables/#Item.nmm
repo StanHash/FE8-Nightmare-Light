@@ -6,22 +6,22 @@ FE8 Item Editor
 0x809B34
 205
 36
-__ItemEditorList.txt
+_ItemEditorList.txt
 NULL
 
-Item Name
+Name
 0
 2
 NEHU
 NULL
 
-Item Description
+Description
 2
 2
 NEHU
 NULL
 
-Use Item Description
+Use Description
 4
 2
 NEHU
@@ -36,30 +36,12 @@ NULL
 Weapon Type
 7
 1
-NDHU
-_WeaponType.txt
+NEHU
+NULL
 
-Attribute 1
+Attributes
 8
-1
-NDHU
-_WAttr1.txt
-
-Attribute 2
-9
-1
-NDHU
-_WAttr2.txt
-
-Attribute 3
-10
-1
-NDHU
-_WAttr3.txt
-
-Attribute 4
-11
-1
+4
 NEHU
 NULL
 
@@ -111,7 +93,7 @@ Range (Min-Max)
 NEHU
 NULL
 
-Cost Per Use (0 => Unsellable)
+Cost Per Use
 26
 2
 NEDU
@@ -120,14 +102,14 @@ NULL
 Weapon Rank
 28
 1
-NDDU
-_WeaponRank.txt
+NEDU
+NULL
 
 Item Icon Index
 29
 1
-NDHU
-_ItemIconIndex.txt
+NEHU
+NULL
 
 Staff/Use Effect
 30
@@ -138,8 +120,8 @@ NULL
 Weapon Effect
 31
 1
-NDDU
-_WeaponEffect.txt
+NEDU
+NULL
 
 Weapon Experience
 32

@@ -1,0 +1,9 @@
+#ifndef TABLE_DEFINITIONS_TXT
+#define TABLE_DEFINITIONS_TXT
+
+#include "FE8 Vanilla Definitions.event"
+#include "Constant Definitions.event"
+
+#define ptr(aOffset) "(aOffset | 0x80000000)"
+
+#endif // TABLE_DEFINITIONS_TXT

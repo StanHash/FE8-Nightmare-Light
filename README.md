@@ -1,14 +1,16 @@
 # FE8 Nightmare Modules : Light & Lighter Editions
 This is a small collection of FE8 Nightmare Modules for use with the buildfile method. They were simplified, clarified and corrected compared to their original counterpart.
 
-My goal here is to only include modules for tables that are not easily and/or conveniently able to be edited through the buildfile method.
+My goal here is to only include modules for tables that are not easily and/or conveniently able to be edited through the buildfile method. This includes tables for Items/Characters/Class but excludes tables for like Pointer Arrays (let alone the "tables" for crit bonus and whatnot).
 
 [For more information on how to use the buildfile method to build a GBAFE hack, check this guide.](https://stackedit.io/viewer#!provider=gist&gistId=084645b0690253600f4aa2a57b76a105&filename=feutv2)
 
-# Light Package
-The Light Package contains the complete modules for Chapter Data, Characters, Classes and Items, (hopefully) in a fully working state.
+# Included CSVs
 
-# Lighter Package
-The Lighter Package contains only the Characters, Classes and Item modules, and those module contains *only* entries for stats, this is for people like me that like to do as much as possible through event files.
+The CSV Included here are provided with pre-filled fields that make use of definitions taken from [BOOTS](https://github.com/StanHash/BOOTS). As long as you use the definitions included with this and/or BOOTS, the csv should represent the vanilla tables, but in a more readable format.
 
-The Lighter Package is best used with libraries like [BOOTS](https://github.com/StanHash/BOOTS).
+# I found an error/I want another Table
+
+If you found an error and know how to github, you can pull request a fix right away.
+
+If you have suggestions about other tables that should be included, feel free to ping me on the FEU Topic or the FEU Discord.

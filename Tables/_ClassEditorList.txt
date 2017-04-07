@@ -1,24 +1,23 @@
-None
-Ephraim Lord
-Eirika Lord
-Ephraim Master Lord
-Eirika Master Lord
-Socialknight
-Socialknight (F)
+Lord (Ephraim)
+Lord (Eirika)
+Great Lord (Ephraim)
+Great Lord (Eirika)
+Cavalier
+Cavalier (F)
 Paladin
 Paladin (F)
-Armour Knight
-Armour Knight (F)
+Knight
+Knight (F)
 General
 General (F)
 Thief
-Mamkute
+Manakete
 Mercenary
 Mercenary (F)
 Hero
 Hero (F)
-Swordfighter
-Swordfighter (F)
+Myrmidon
+Myrmidon (F)
 Swordmaster
 Swordmaster (F)
 Assassin
@@ -27,12 +26,12 @@ Archer
 Archer (F)
 Sniper
 Sniper (F)
-Forrest Knight
-Forrest Knight (F)
-Dragon Knight
-Dragon Knight (F)
-Dragon Master
-Dragon Master (F)
+Ranger
+Ranger (F)
+Wyvern Rider
+Wyvern Rider (F)
+Wyvern Lord
+Wyvern Lord (F)
 Wyvern Knight
 Wyvern Knight (F)
 Mage
@@ -53,26 +52,26 @@ Rogue
 Gorgon Egg
 Great Knight
 Great Knight (F)
-Trainee Soldier (2)
-Trainee Fighter (3)
-Trainee Mage (3)
-Trainee Soldier (3)
-Mamkute
-Mamkute (F)
-Trainee Fighter (1)
-Trainee Mage (1)
+Recruit (2)
+Journeyman (3)
+Pupil (3)
+Recruit (3)
+Manakete
+Manakete (F)
+Journeyman (1)
+Pupil (1)
 Fighter
 Warrior
-Mountain Thief
+Brigand
 Pirate
 Berserker
 Monk
 Priest
 Bard
-Trainee Soldier (1)
+Recruit (1)
 Pegasus Knight
-Falcon Knight
-Sister
+Falcoknight
+Cleric
 Troubadour
 Valkyrie
 Dancer
@@ -80,26 +79,26 @@ Soldier
 Necromancer
 Fleet
 Ghost Fighter
-Zombie
-Mummy
-Skeleton
-Skeleton (Bow)
-Hellbone
-Hellbone (Bow)
+Revenant
+Entombed
+Bonewalker
+Bonewalker (Bow)
+Wight
+Wight (Bow)
 Bael
 Elder Bael
 Cyclops
 Mauthedoog
-Cerberus
+Gwyllgi
 Tarvos
-Macdaire
-Bigl
-Archbigl
+Maelduin
+Mogall
+ArchMogall
 Gorgon
 Gorgon Egg
 Gargoyle
-Death Gargoyle
-Dragon Zombie
+Deathgoyle
+Dracozombie
 Demon King
 Archer on Ballista
 Archer on Iron Ballista
@@ -117,12 +116,12 @@ Peer
 Queen
 Prince
 Queen
-(empty)
+--
 Fallen Prince
 Tent
 Pontifex
 Dead Peer
 Cyclops
 Elder Bael
-Trainee Fighter (2)
-Trainee Mage (2)
+Journeyman (2)
+Pupil (2)
