@@ -101,6 +101,7 @@
 	#endif // NO_VANILLA_CHAPTERS
 	
 	#ifndef NO_VANILLA_CHARACTERS
+		#define unitNone 0x00
 		#define unitEirika 0x01
 		#define unitSeth 0x02
 		#define unitGilliam 0x03
@@ -488,6 +489,7 @@
 		#define musicTheFinalBattle 0x45
 		#define musicEpilogue 0x46
 		#define musicSilent 0x7FFF
+		#define musicSilent2 0xFFFF
 	#endif // NO_VANILLA_MUSIC
 
 	#ifndef NO_VANILLA_CLASSES
