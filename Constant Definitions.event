@@ -147,5 +147,20 @@
 	#endif // _FE8_
 #endif // _FE6_
 
+#define FACING_TARGET 0x00
+#define FACING_UP 0x01
+#define FACING_RIGHT 0x02
+#define FACING_STANDING 0x03
+
+#define FLASH_WHITE  0x00
+#define FLASH_DARK   0x01
+#define FLASH_RED    0x02
+#define FLASH_GREEN  0x03
+#define FLASH_BLUE   0x04
+#define FLASH_YELLOW 0x05
+
+#define NO_ANIMATION 0xFFFF
+#define ANIM_DEFAULT 0xFFFF
+
 #endif // BOOTS_CORE_CONSTANTS_EA
 #endif // CONSTANT_DEFINITIONS_EVENT
