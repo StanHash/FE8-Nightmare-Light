@@ -4,7 +4,7 @@
 #include "FE8 Vanilla Definitions.event"
 #include "Constant Definitions.event"
 
-#define ptr(aOffset) "((aOffset) | 0x80000000)"
+#define ptr(aOffset) "((aOffset) | 0x8000000)"
 #define ChapterDifficulty(aEasy, aNormal, aHard) "((aEasy) | ((aHard)<<4) | ((aNormal)<<8))"
 
 #endif // TABLE_DEFINITIONS_TXT
