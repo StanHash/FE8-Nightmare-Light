@@ -24,13 +24,13 @@ NULL
 Number
 4
 1
-NDHU
+NEHU
 NULL
 
 Default Promotion
 5
 1
-NDHU
+NEHU
 NULL
 
 Standing Map Sprite Id
@@ -231,91 +231,91 @@ Attributes
 NEHU
 NULL
 
-Rank Sword
+Sword Rank
 44
 1
 NEDU
 NULL
 
-Rank Lance
+Lance Rank
 45
 1
 NEDU
 NULL
 
-Rank Axe
+Axe Rank
 46
 1
 NEDU
 NULL
 
-Rank Bow
+Bow Rank
 47
 1
 NEDU
 NULL
 
-Rank Staff
+Staff Rank
 48
 1
 NEDU
 NULL
 
-Rank Anima
+Anima Rank
 49
 1
 NEDU
 NULL
 
-Rank Light
+Light Rank
 50
 1
 NEDU
 NULL
 
-Rank Dark
+Dark Rank
 51
 1
 NEDU
 NULL
 
-Battle Animation Pointer
+Battle Animation Ptr
 52
 4
 NEHU
 NULL
 
-Mov Cost Pointer
+Mov Cost Ptr
 56
 4
 NEHU
 NULL
 
-Mov Cost Pointer (Rain)
+Mov Cost Ptr (Rain)
 60
 4
 NEHU
 NULL
 
-Mov Cost Pointer (Snow)
+Mov Cost Ptr (Snow)
 64
 4
 NEHU
 NULL
 
-Terrain Def Bonus
+Terrain Def Bonus Ptr
 68
 4
 NEHU
 NULL
 
-Terrain Avo Bonus
+Terrain Avo Bonus Ptr
 72
 4
 NEHU
 NULL
 
-Terrain Res Bonus
+Terrain Res Bonus Ptr
 76
 4
 NEHU

@@ -4,7 +4,13 @@
 #include "FE8 Vanilla Definitions.event"
 #include "Constant Definitions.event"
 
-#define ptr(aOffset) "((aOffset) | 0x8000000)"
+#define IsEWRAMPointer (0x2000000)
+#define IsIWRAMPointer (0x3000000)
+#define IsROMPointer   (0x8000000)
+
+#define IsPointer IsROMPointer
+
+#define Pointer(aOffset) "((aOffset) | IsPointer)"
 #define ChapterDifficulty(aEasy, aNormal, aHard) "((aEasy) | ((aHard)<<4) | ((aNormal)<<8))"
 
 #endif // TABLE_DEFINITIONS_TXT
